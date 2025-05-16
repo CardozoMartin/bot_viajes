@@ -1,0 +1,200 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493812032666@s.whatsapp.net',
+    fromMe: false,
+    id: '3F4D4988EA583DDA9A60',
+    participant: undefined
+  },
+  messageTimestamp: 1747373387,
+  pushName: 'Martin Cardozo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola viajes',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola viajes',
+  from: '5493812032666'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cd86b206-9def-4fcf-9fbe-eb2a453e17b3',
+  keyword: 'key_9a9ba901-1619-49fb-85f4-594b03f6f31b',
+  answer: '¡Hola, viajero! Bienvenido a *Viajes Turísticos Estrella* 🌟',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e66f26bac27b1f597a41a9d5c8d0d604'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_57c7a823-ef0d-4c15-b80c-dbcce33f8621',
+  keyword: 'ans_cd86b206-9def-4fcf-9fbe-eb2a453e17b3',
+  answer: 'Estamos aquí para llevarte a los destinos más increíbles del mundo. 🗺️\n' +
+    '¿Listo para comenzar?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'd06f416bea9275d4a155fc115624de3d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493812032666@s.whatsapp.net',
+    fromMe: false,
+    id: '3F443AF0BEC7D8EC1E8D',
+    participant: undefined
+  },
+  messageTimestamp: 1747373395,
+  pushName: 'Martin Cardozo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '1', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '5493812032666'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493812032666@s.whatsapp.net',
+    fromMe: false,
+    id: '3FB65F6B6394841395F9',
+    participant: undefined
+  },
+  messageTimestamp: 1747373401,
+  pushName: 'Martin Cardozo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '2', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '5493812032666'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493812032666@s.whatsapp.net',
+    fromMe: false,
+    id: '3FC24164226E79D36936',
+    participant: undefined
+  },
+  messageTimestamp: 1747373408,
+  pushName: 'Martin Cardozo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '2', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '5493812032666'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493812032666@s.whatsapp.net',
+    fromMe: false,
+    id: '3FB1547A8ACBE61FA61E',
+    participant: undefined
+  },
+  messageTimestamp: 1747373414,
+  pushName: 'Martin Cardozo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '2', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '5493812032666'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493812032666@s.whatsapp.net',
+    fromMe: false,
+    id: '3FB16F32F66AD6B204C3',
+    participant: undefined
+  },
+  messageTimestamp: 1747373421,
+  pushName: 'Martin Cardozo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '1', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '5493812032666'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493812032666@s.whatsapp.net',
+    fromMe: false,
+    id: '3F7218014346F15F290B',
+    participant: undefined
+  },
+  messageTimestamp: 1747373425,
+  pushName: 'Martin Cardozo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '3', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '5493812032666'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493812032666@s.whatsapp.net',
+    fromMe: false,
+    id: '3FCA2169077C2C33612B',
+    participant: undefined
+  },
+  messageTimestamp: 1747373430,
+  pushName: 'Martin Cardozo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '2', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '5493812032666'
+}
